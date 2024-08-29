@@ -1,14 +1,4 @@
-Lab Work - Week01: Create a Vehicle Class and a Child Class called Car in Java
-Objective:
-Create a Vehicle class with certain attributes.
-Extend the Vehicle class by creating a Car class with additional attributes and methods.
-Use either IntelliJ IDEA or NetBeans for your IDE.
-Push the final code to GitHub.
-Submit the GitHub URL on Brightspace.
-Instructions:
-Set Up Your Development Environment:
 
-Open IntelliJ IDEA or NetBeans and create a new Java project.
 Create the Vehicle Class:
 
 Create a new Java class named Vehicle.
