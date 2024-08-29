@@ -4,9 +4,10 @@ package org.example;
 // click the <icon src="AllIcons.Actions.Execute"/> icon in the gutter.
 public class Main {
     public static void main(String[] args) {
-        Vehicle car = new Vehicle();
-        Car c1 = new Car();
-        c1.honk();
+
+        Car car = new Car("Honda",4,"grey",2,"regular");
+        car.honk();
+        car.displayInfo();
 
 
     }
